@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+table {
+    border-collapse: collapse;
+    width: 80%; /* Adjust the width as needed */
+    margin: 20px auto; /* Center the table on the page */
+  }
+  
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
